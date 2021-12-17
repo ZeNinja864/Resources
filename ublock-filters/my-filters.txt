@@ -1,0 +1,22 @@
+# Remove Fandom wiki page bloat
+fandom.com##.global-navigation
+fandom.com##.is-visible.fandom-sticky-header
+fandom.com##.wikia-bar-anon.wikia-bar
+fandom.com##.WikiaRail.right-rail-wrapper
+fandom.com##.page__right-rail
+fandom.com##.mcf-wrapper
+fandom.com##.wds-global-footer
+fandom.com##.instant-suggestion
+!fandom.com##.page-side-tools
+fandom.com##.fandom-community-header__community-name-wrapper
+fandom.com##.fandom-community-header > .fandom-community-header__local-navigation > .extra-large-navigation.wds-tabs
+!fandom.com##.fandom-community-header__background
+
+! Remove Light.gg Advertisements
+light.gg###billboards > .text-center
+light.gg##.items-right-square.clearfix
+
+! Trials.report remove Black Lives Matter political message for politics free environment
+trials.report##.ng-tns-c74-3.animate--appear.card.masonry__item--span61.masonry__item > .ng-tns-c74-3.card__content
+trials.report##.ng-tns-c74-3.animate--appear.card.masonry__item--span61.masonry__item > .ng-tns-c74-3.card__header
+trials.report##.ng-tns-c74-3.animate--appear.card.masonry__item--span61.masonry__item
